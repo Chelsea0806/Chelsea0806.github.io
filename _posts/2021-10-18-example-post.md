@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: I've just created an example blog post
 ---
 
