@@ -4,7 +4,7 @@ title: Natural History Museum - Images
 ---
 
 ## Background
-The NHM Images [https://www.nhmimages.com/en/news/show_news_list_page.html] has their latest and noteworthy curated image collections, which includes a variety of types, for example, portrait, history, animals and nature.
+The NHM Images[https://www.nhmimages.com/en/news/show_news_list_page.html] has their latest and noteworthy curated image collections, which includes a variety of types, for example, portrait, history, animals and nature.
 
 ## Layout
 At first, choose a category at random. Then you can see, at the top, there is a row of fliters, so that images can be presented in the way you want them to be. 
